@@ -1,6 +1,3 @@
-Bien sûr ! Voici un exemple de README pour votre programme :
-
----
 
 # Surveillance des Rendez-vous Préfectoraux
 
